@@ -8,3 +8,9 @@ This repository contains the implementation of Self organising maps for fraud de
 
 `pip3 intsall -r requirements.txt`
 
+
+# License
+[MIT](https://choosealicense.com/licenses/mit/#suggest-this-license)
+
+
+
